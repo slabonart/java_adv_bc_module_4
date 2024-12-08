@@ -1,0 +1,11 @@
+insert into users (first_name, last_name, birth_date) values ('John', 'Travolta', DATE '1954-02-18');
+insert into users (first_name, last_name, birth_date) values ('Evan', 'McGregor', DATE '1971-03-31');
+insert into users (first_name, last_name, birth_date) values ('Natalie', 'Portman', DATE '1981-06-09');
+insert into users (first_name, last_name, birth_date) values ('Bruce', 'Willis', DATE '1955-03-19');
+insert into users (first_name, last_name, birth_date) values ('Demi', 'Moore', DATE '1962-11-11');
+insert into users (first_name, last_name, birth_date) values ('Ashton', 'Kutcher', DATE '1978-02-07');
+insert into users (first_name, last_name, birth_date) values ('Tom', 'Cruise', DATE '1962-07-03');
+insert into users (first_name, last_name, birth_date) values ('Brad', 'Pitt', DATE '1963-12-18');
+insert into users (first_name, last_name, birth_date) values ('Leonardo', 'DiCaprio', DATE '1974-11-11');
+insert into users (first_name, last_name, birth_date) values ('George ', 'Clooney', DATE '1961-05-06');
+insert into users (first_name, last_name, birth_date) values ('Johnny', 'Depp', DATE '1963-06-09');
