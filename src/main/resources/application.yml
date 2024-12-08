@@ -1,0 +1,23 @@
+spring:
+  datasource:
+    name: users_db
+    platform: h2
+    generate-unique-name: false
+  jpa:
+    hibernate:
+      ddl-auto: update
+    generate-ddl: true
+    defer-datasource-initialization: true
+  sql:
+    init:
+      mode: always
+  h2:
+    console:
+      enabled: true
+  security:
+    userName: test
+    password: test-pass
+logging:
+  level:
+    org:
+      'spring.framework.jdbc': DEBUG
